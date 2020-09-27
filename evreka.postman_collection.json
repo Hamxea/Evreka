@@ -1,0 +1,33 @@
+{
+	"variables": [],
+	"info": {
+		"name": "evreka",
+		"_postman_id": "57dda5cc-2434-9b9a-2128-a610dc83841f",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "last_points",
+			"request": {
+				"url": "",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "collection_frequency_bin_operation",
+			"request": {
+				"url": "",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		}
+	]
+}
