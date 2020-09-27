@@ -3,35 +3,7 @@
 
 ## Q1.
 
-
-
-[
-    {
-        "latitude": 524,
-        "longitude": 752,
-        "datetime": "2020-09-26T23:25:58Z",
-        "vehicle_plate": "00 KTG 99"
-    },
-    {
-        "latitude": 34,
-        "longitude": 8725,
-        "datetime": "2020-09-26T12:03:27Z",
-        "vehicle_plate": "06 HMZ 99"
-    },
-    {
-        "latitude": 68,
-        "longitude": 785,
-        "datetime": "2020-09-25T23:25:32Z",
-        "vehicle_plate": "99 XYZ 000"
-    },
-    {
-        "latitude": 554,
-        "longitude": 785,
-        "datetime": "2020-09-24T23:25:20Z",
-        "vehicle_plate": "00 ABC 99"
-    }
-]
-
+![last_points](https://user-images.githubusercontent.com/27901245/94375279-43501a80-011b-11eb-9f14-efbd7f2c445e.PNG)
 
 
 ## Q2. 
