@@ -13,8 +13,8 @@
 
 ### 5. Add postman collection
 ##### evreka.postman_collection.json
-##### configure it as: 
-########## Q1) {{url}}/back_end_developer_q1/last_points
+##### configure it as 
+########## Q1) {{url}}/back_end_developer_q1/last_points /n
 ########## Q2) {{url}}/back_end_developer_q2/collection_frequency_bin_operation
 
 ## Q1.
