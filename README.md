@@ -1,5 +1,9 @@
 # evreka
+##Prerequisites
+1. Install requirements
+pip install -r requirements.txt
 
+2. Change database credentials in settings.py
 
 ## Q1.
 
@@ -10,68 +14,8 @@
 
 
 
+![Bin and Operation  database model design](https://user-images.githubusercontent.com/27901245/94375295-667aca00-011b-11eb-9cb7-a98eeb047ec9.PNG)
 
+![ER Diagram](https://user-images.githubusercontent.com/27901245/94375298-67abf700-011b-11eb-8db4-0a4b170f15f4.PNG)
 
-
-
-
-[
-    {
-        "bin": "2134.0,434.0",
-        "operation": "ankara",
-        "collection_frequency": 32,
-        "last_operation": "2020-09-27T08:40:47Z"
-    },
-    {
-        "bin": "34.0,45.0",
-        "operation": "istanbul",
-        "collection_frequency": 5,
-        "last_operation": "2020-09-27T08:41:04Z"
-    },
-    {
-        "bin": "2134.0,434.0",
-        "operation": "ankara",
-        "collection_frequency": 6,
-        "last_operation": "2020-09-23T08:41:14Z"
-    },
-    {
-        "bin": "2345.0,4353.0",
-        "operation": "kayseri",
-        "collection_frequency": 1,
-        "last_operation": "2020-09-27T08:41:29Z"
-    },
-    {
-        "bin": "2134.0,434.0",
-        "operation": "ankara",
-        "collection_frequency": 2,
-        "last_operation": "2020-09-27T09:10:21Z"
-    },
-    {
-        "bin": "2134.0,434.0",
-        "operation": "ankara",
-        "collection_frequency": 7,
-        "last_operation": "2020-09-26T09:10:35Z"
-    },
-    {
-        "bin": "34.0,45.0",
-        "operation": "ankara",
-        "collection_frequency": 6565,
-        "last_operation": "2020-09-10T16:58:03Z"
-    },
-    {
-        "bin": "2345.0,4353.0",
-        "operation": "istanbul",
-        "collection_frequency": 56,
-        "last_operation": "2020-09-27T20:38:50Z"
-    },
-    {
-        "bin": "2345.0,4353.0",
-        "operation": "kayseri",
-        "collection_frequency": 54,
-        "last_operation": "2020-09-27T20:39:03Z"
-    }
-]
-
-
-
-
+![collection_frequency_bin_operation](https://user-images.githubusercontent.com/27901245/94375297-67136080-011b-11eb-81c7-cd3bc881b7bf.PNG)
