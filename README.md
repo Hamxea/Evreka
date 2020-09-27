@@ -1,9 +1,16 @@
 # evreka
-##Prerequisites
-1. Install requirements
-pip install -r requirements.txt
+## Prerequisites
+### 1. Install requirements
+ #### pip install -r requirements.txt
 
-2. Change database credentials in settings.py
+### 2. Change database credentials in settings.py
+
+### 3. Migrate your models to the database
+ #### python manage.py migrate
+ 
+### 4. Run development server
+  #### python manage.py runserver
+
 
 ## Q1.
 
